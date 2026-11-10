@@ -7,3 +7,6 @@ Given the tracking data used in this challenge, we wanted to look at the kind of
 #### What the Data showed us
 The data showed that receivers have a 77% completion rate across all kinds of cuts, however the Go/Wheel routes are the most effective with an 82% completion rate and Post/Corner routes are the least effective at 72% completion rate. Attached to the repository are the visualizations created from our exploratory stage and our focus stage. The animations and images we want to highlight are **cut_angle_separation_animation**, **field_animation**, **route_type_completion_rate**, and **top_receivers_cut_vs_completion**.
 These highlighted visualizations show the type of cut being made at the angles, the completion rate, and the distribution of the separation created at these angle cuts.
+
+
+Deployment website: https://cutanglepasscompletionproject-ggtsxfzaunuruszs4euadn.streamlit.app/ 
