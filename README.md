@@ -1,5 +1,5 @@
 ## A look at how the cut angle of a receiver relates to their separation of a defender and their completion rate
-
+Contributors: Cole Wissink and Arya Roi
 Given the tracking data used in this challenge, we wanted to look at the kind of angles receivers take when running routes and their effectiveness of catching the ball at these angles. We asked Kiro to give us a quick breakdown on the distribution of cut angles that players take within the tracking data time frame and it created visualizations and animations to show the relationship between a receiver's angle cut and their separation of a defender in yards. We then asked it to track the completion rates at these angles to get a better understanding at what are the most effective cuts receivers use to get the ball.
 
 
