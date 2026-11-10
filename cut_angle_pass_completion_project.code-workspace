@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../nfl-big-data-bowl-regional-event-data/data"
+		}
+	],
+	"settings": {}
+}
